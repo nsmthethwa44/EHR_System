@@ -1,0 +1,57 @@
+[
+    {
+      "id": 5001,
+      "patientId": 101,
+      "doctorId": 1,
+      "date": "2025-05-20",
+      "time": "10:00",
+      "status": "Scheduled",
+      "reason": "Routine checkup"
+    },
+    {
+      "id": 5002,
+      "patientId": 102,
+      "doctorId": 3,
+      "date": "2025-05-21",
+      "time": "14:00",
+      "status": "Completed",
+      "reason": "Fever and cold"
+    },
+    {
+      "id": 5003,
+      "patientId": 103,
+      "doctorId": 2,
+      "date": "2025-05-22",
+      "time": "11:30",
+      "status": "Cancelled",
+      "reason": "Skin rash consultation"
+    },
+    {
+      "id": 5004,
+      "patientId": 103,
+      "doctorId": 2,
+      "date": "2025-05-22",
+      "time": "11:30",
+      "status": "Cancelled",
+      "reason": "Skin rash consultation"
+    },
+    {
+      "id": 5005,
+      "patientId": 103,
+      "doctorId": 2,
+      "date": "2025-05-22",
+      "time": "11:30",
+      "status": "Cancelled",
+      "reason": "Skin rash consultation"
+    },
+    {
+      "id": 5006,
+      "patientId": 103,
+      "doctorId": 2,
+      "date": "2025-05-22",
+      "time": "11:30",
+      "status": "Cancelled",
+      "reason": "Skin rash consultation"
+    }
+  ]
+  

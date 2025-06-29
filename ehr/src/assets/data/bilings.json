@@ -1,0 +1,83 @@
+[
+    {
+      "id": 3001,
+      "patientId": 101,
+      "amount": 200.00,
+      "date": "2025-05-10",
+      "status": "Paid",
+      "description": "General Consultation"
+    },
+    {
+      "id": 3002,
+      "patientId": 102,
+      "amount": 150.00,
+      "date": "2025-05-08",
+      "status": "Unpaid",
+      "description": "Lab Test: CBC"
+    },
+    {
+      "id": 3003,
+      "patientId": 103,
+      "amount": 300.00,
+      "date": "2025-05-07",
+      "status": "Paid",
+      "description": "Skin Treatment"
+    },
+    {
+      "id": 3004,
+      "patientId": 101,
+      "amount": 120.00,
+      "date": "2025-05-05",
+      "status": "Paid",
+      "description": "Prescription Medications"
+    },
+    {
+      "id": 3005,
+      "patientId": 102,
+      "amount": 450.00,
+      "date": "2025-05-02",
+      "status": "Unpaid",
+      "description": "MRI Scan"
+    },
+    {
+      "id": 3006,
+      "patientId": 103,
+      "amount": 180.00,
+      "date": "2025-05-01",
+      "status": "Paid",
+      "description": "Chest X-Ray"
+    },
+    {
+      "id": 3007,
+      "patientId": 101,
+      "amount": 100.00,
+      "date": "2025-04-29",
+      "status": "Paid",
+      "description": "Follow-up Visit"
+    },
+    {
+      "id": 3008,
+      "patientId": 102,
+      "amount": 220.00,
+      "date": "2025-04-27",
+      "status": "Unpaid",
+      "description": "Blood Test"
+    },
+    {
+      "id": 3009,
+      "patientId": 103,
+      "amount": 250.00,
+      "date": "2025-04-25",
+      "status": "Paid",
+      "description": "Allergy Consultation"
+    },
+    {
+      "id": 3010,
+      "patientId": 101,
+      "amount": 500.00,
+      "date": "2025-04-22",
+      "status": "Paid",
+      "description": "Annual Health Checkup"
+    }
+  ]
+  

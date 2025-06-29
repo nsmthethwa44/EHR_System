@@ -1,0 +1,51 @@
+[
+    {
+      "id": 101,
+      "name": "Senzo",
+      "age": 34,
+      "gender": "Male",
+      "email": "senzo@example.com",
+      "phone": "+1112223333"
+    },
+    {
+      "id": 102,
+      "name": "Zama Xulu",
+      "age": 28,
+      "gender": "Female",
+      "email": "zamax@example.com",
+      "phone": "+1112223334"
+    },
+    {
+      "id": 103,
+      "name": "Sam Smith",
+      "age": 45,
+      "gender": "Male",
+      "email": "sams@example.com",
+      "phone": "+1112223335"
+    },
+    {
+      "id": 104,
+      "name": "Damon Salvatore",
+      "age": 45,
+      "gender": "Male",
+      "email": "damons@example.com",
+      "phone": "+1112223335"
+    },
+    {
+      "id": 105,
+      "name": "Sipho Xulu",
+      "age": 45,
+      "gender": "Male",
+      "email": "siphox@example.com",
+      "phone": "+1112223335"
+    },
+    {
+      "id": 106,
+      "name": "Zola Mkhize",
+      "age": 45,
+      "gender": "Male",
+      "email": "zolam@example.com",
+      "phone": "+1112223335"
+    }
+  ]
+  

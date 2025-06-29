@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "name": "Dr. Zama",
+      "specialization": "Diviologist",
+      "email": "zama@hospital.com",
+      "phone": "+1234567890",
+      "workingHours": "Full Time"
+    },
+    {
+      "id": 2,
+      "name": "Dr. Sipho",
+      "specialization": "Dermatologist",
+      "email": "sipho@hospital.com",
+      "phone": "+1234567891",
+       "workingHours": "Part Time"
+    },
+    {
+      "id": 3,
+      "name": "Dr. Xolani",
+      "specialization": "Pediatrician",
+      "email": "xolani@hospital.com",
+      "phone": "+1234567892",
+       "workingHours": "Part Time"
+    },
+    {
+      "id": 4,
+      "name": "Dr. Elina",
+      "specialization": "Pediatrician",
+      "email": "elina@hospital.com",
+      "phone": "+1234567892",
+       "workingHours": "Full Time"
+    },
+    {
+      "id": 5,
+      "name": "Dr. Bonnie",
+      "specialization": "Pediatrician",
+      "email": "bonnie@hospital.com",
+      "phone": "+1234567892",
+       "workingHours": "Part Time"
+    },
+    {
+      "id": 6,
+      "name": "Dr. Senzo",
+      "specialization": "Pediatrician",
+      "email": "senzo@hospital.com",
+      "phone": "+1234567892",
+      "workingHours": "Full Time"
+    }
+  ]
+  

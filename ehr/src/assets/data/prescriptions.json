@@ -1,0 +1,83 @@
+[
+    {
+      "id": 2001,
+      "patientId": 101,
+      "doctorId": 1,
+      "medication": "Atorvastatin 10mg",
+      "instructions": "Take once daily",
+      "date": "2025-05-10"
+    },
+    {
+      "id": 2002,
+      "patientId": 102,
+      "doctorId": 3,
+      "medication": "Paracetamol 500mg",
+      "instructions": "Take every 6 hours for fever",
+      "date": "2025-05-08"
+    },
+    {
+      "id": 2003,
+      "patientId": 103,
+      "doctorId": 2,
+      "medication": "Loratadine 10mg",
+      "instructions": "Take once daily for allergies",
+      "date": "2025-05-07"
+    },
+    {
+      "id": 2004,
+      "patientId": 101,
+      "doctorId": 1,
+      "medication": "Metformin 500mg",
+      "instructions": "Take with breakfast and dinner",
+      "date": "2025-05-06"
+    },
+    {
+      "id": 2005,
+      "patientId": 102,
+      "doctorId": 3,
+      "medication": "Ibuprofen 200mg",
+      "instructions": "Take every 8 hours for pain",
+      "date": "2025-05-05"
+    },
+    {
+      "id": 2006,
+      "patientId": 103,
+      "doctorId": 2,
+      "medication": "Omeprazole 20mg",
+      "instructions": "Take 30 minutes before breakfast",
+      "date": "2025-05-04"
+    },
+    {
+      "id": 2007,
+      "patientId": 101,
+      "doctorId": 1,
+      "medication": "Vitamin D 1000 IU",
+      "instructions": "Take once daily",
+      "date": "2025-05-02"
+    },
+    {
+      "id": 2008,
+      "patientId": 102,
+      "doctorId": 3,
+      "medication": "Amoxicillin 500mg",
+      "instructions": "Take every 8 hours for 7 days",
+      "date": "2025-04-30"
+    },
+    {
+      "id": 2009,
+      "patientId": 103,
+      "doctorId": 2,
+      "medication": "Salbutamol Inhaler",
+      "instructions": "Use as needed for asthma",
+      "date": "2025-04-29"
+    },
+    {
+      "id": 2010,
+      "patientId": 101,
+      "doctorId": 1,
+      "medication": "Losartan 50mg",
+      "instructions": "Take once daily",
+      "date": "2025-04-27"
+    }
+  ]
+  
