@@ -1,5 +1,4 @@
 # EHR_System
-# EHR System Frontend
 
 A modern and responsive **Electronic Health Records (EHR) system** built using **React (Vite)** and **SCSS**, designed to manage patient records, doctor schedules, and appointments.
 
